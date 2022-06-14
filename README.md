@@ -4,9 +4,9 @@
 
 ---
 
-**ChiDoors ** *("[Chicago ](https://en.wikipedia.org/wiki/Windows_95#Development)Doors")* is an icon set that tries to recreate the look of Windows 95's desktop icons. The intention behind this is to enable users of modern systems (and especially Windows 95-style themes such as [Chicago95](https://github.com/grassmunk/Chicago95)) to emulate the aesthetic of the older Windows versions more completely by providing icons for newer programs that fit with this style.
+**Chi-Nata** ("[Chicago](https://en.wikipedia.org/wiki/Chicago_(typeface)) [Sonata](https://en.wikipedia.org/wiki/Mac_OS_9#Version_history)") is an icon set that tries to recreate the look of MacOS 9's desktop icons. The intention behind this is to enable users of modern systems to emulate the aesthetic of the Classic MacOS more completely by providing icons for newer programs that fit with this style.
 
-While these may use some of the original Win95 ico's as a base (such as the file icon), **all icons in this repo must be original**. Please don't just recolor the base Win95 icons and push them here. With that being said, do feel free to look at [the original icons](https://win98icons.alexmeub.com/) for inspiration.
+While these may use some of the original MacOS ico's as a base (such as the file icon), **all icons in this repo must be original**. Please don't just recolor the base MacOS icons and push them here. With that being said, do feel free to look at the original icons for inspiration.
 
 ## Standards
 
@@ -15,7 +15,7 @@ While these may use some of the original Win95 ico's as a base (such as the file
 To keep the look of the icons consistent, please make sure your additions meet these standards:
 
 * .ico file type
-* 32x32 image size
+* Create the icons in 32x32 pixel image size, but export them in 256x256
 * Paletted to the [Standard VGA Palette](https://en.wikipedia.org/wiki/Video_Graphics_Array#/media/File:VGA_palette_with_black_borders.svg)
 
 ### Naming
@@ -38,7 +38,7 @@ If you're in doubt about the author of a program, not sure which to use, or just
 
 ### MacOS
 
-The method listed below is the vanilla method provided by the OS. If you want to apply these custom icons to system apps, I would recommend (IconChamp)[]
+The method listed below is the vanilla method provided by the OS. If you want to apply these custom icons to system apps, I would recommend [IconChamp](https://www.macenhance.com/iconchamp.html) or a similar application of your choice. For IconChamp users, an .ict file is provided in the root folder which will install the theme automatically when opened.
 
 1. Open you application folder (Macintosh HD -> Applications)
 2. Select the application whose icon you want to change and open its info panel (⌘I)
