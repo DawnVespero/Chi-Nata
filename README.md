@@ -1,7 +1,7 @@
 # Chi-Nata
-
 **A MacOS 9-styled icon set**
 
+![CC BY-SA Banner](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 ---
 
 **Chi-Nata** ("[Chicago](https://en.wikipedia.org/wiki/Chicago_(typeface)) [Sonata](https://en.wikipedia.org/wiki/Mac_OS_9#Version_history)") is an icon set that tries to recreate the look of MacOS 9's desktop icons. The intention behind this is to enable users of modern systems to emulate the aesthetic of the Classic MacOS more completely by providing icons for newer programs that fit with this style.
