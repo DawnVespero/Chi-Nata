@@ -3,6 +3,7 @@ Name=Chi-Nata
 Comment=An icon theme in the style of MacOS 9.
 Directories=256x256,32x32
 Example=folder
+inherit=Adwaita,hicolor
 
 [256x256]
 size=256
