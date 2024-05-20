@@ -1,20 +1,10 @@
 [Icon Theme]
 Name=Chi-Nata
 Comment=An icon theme in the style of MacOS 9.
-Directories=icons/apps,icons/places,icons/mimes
-Example=finder
+Directories=256x256,32x32
+Example=folder
 
-[icons/apps]
-Size=256
-MinSize=32
-context=Applications
+[256x256]
+size=256
 
-[icons/places]
-Size=256
-MinSize=32
-context=FileSystems
-
-[icons/mimes]
-Size=256
-MinSize=32
-context=MimeTypes
+[32x32]
